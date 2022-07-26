@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mrtzt
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning javascript, reactjs and html/css.
+- 👋 Hi, I’m Moritz
+- 👀 I’m interested in learning how to code. Right now I'm going through the tutorials on the web. Hoping to advance my skills in doing so.
+- 🌱 I’m currently learning javascript, reactjs and HTML/CSS.
 
 
 <!---
