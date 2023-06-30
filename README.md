@@ -3,7 +3,7 @@
 - 💻📚 Since the beginning of this year I have been actively attending a beginners' course at the [freecodecamp](https://www.freecodecamp.org/m0rthe). 
 I got my first insights into HTML/CSS and Javascript. I also enjoyed the use of Git in another course. It's a great opportunity to use the many free online courses to teach yourself how to code.
 I also plan to complete the [OSSU Curriculum](https://github.com/ossu/computer-science).
-- 👨🏻‍💻 For the future, I plan to improve my knowledge of programming and upload more projects.
+- 👨🏻‍💻 For the future, I plan to improve my knowledge and upload more projects.
 - 💼 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/moritz-theodoridis/).
 
 ![](https://komarev.com/ghpvc/?username=m0rthe&color=green&style=for-the-badge)
